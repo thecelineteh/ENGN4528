@@ -1,4 +1,7 @@
 # Group 56: Angry Birds Trajectory Tracking
+## The Australian National University (ANU): ENGN4528 - Computer Vision
+#### Note: [thecelineteh](https://github.com/thecelineteh) contributed as [u6462117](https://github.com/u6462117).
+
 
 This program feeds a video trailer of the 2009 Rovio Entertainment game 'Angry Birds' as input and displays this video in near-real-time as an output, annotated with colour-coded bounding boxes around the birds and pigs, as well as an estimate of birds' trajectories while in flight.
 
